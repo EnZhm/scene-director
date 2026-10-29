@@ -1,5 +1,7 @@
 # Scene Director
 
+> **This repository is archived. Scene Director now lives in [EnZhm/director](https://github.com/EnZhm/director)** (`plugins/scene-director`), released as part of [Director 2.0.0](https://github.com/EnZhm/director/releases/tag/2.0.0) together with Music Director, Palette Director, Clip Director and Scene Director. Download and install from there. The releases below stay available as history.
+
 Scene Director is an OBS Studio plugin (Windows x64) for VJ sets. It follows the
 [Palette Director](https://github.com/EnZhm/palette-director) beat clock and sends MIDI
 **Next** and **Previous** to a virtual MIDI port, so a Synesthesia playlist switches on the
